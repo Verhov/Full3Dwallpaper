@@ -1,7 +1,7 @@
 Full3Dwallpaper
 ===============
 
-* __Download Setup.exe:__ http://michael.verhov.com/Project/full3dwallpaper
+* __Download Setup:__ http://michael.verhov.com/Project/full3dwallpaper
 
 <img src="https://github.com/Verhov/Full3Dwallpaper/blob/master/awesome.png?raw=true" />
 
