@@ -29,6 +29,8 @@ Install DirectX 9 before starting the program.
 
 ##Donate: http://michael.verhov.com/Project/full3dwallpaper
 
+<img src="https://github.com/Verhov/Full3Dwallpaper/blob/master/screenshot.png?raw=true" />
+
 ##Licence:
 
 The license applies to the program, program source code and on all contained 3D models. An exclusive rights belongs to author (Mikhail Verkhov).
