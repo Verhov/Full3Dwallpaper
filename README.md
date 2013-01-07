@@ -1,6 +1,6 @@
 Full3Dwallpaper
 ===============
-<img src="https://github.com/Verhov/Full3Dwallpaper/blob/master/awesome.png?raw=true" />
+<img src="https://github.com/Verhov/Full3Dwallpaper/blob/master/awesome.png?raw=true&float=left" />
 
 3D Graphics for Windows Desktop
 
