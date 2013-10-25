@@ -25,7 +25,7 @@ Install DirectX 9 before starting the program.
 
 * Windows XP: perfect;
 * Windows Vista 7: good (without Aero);
-* Windows 8: not tested.
+* Windows 8: not supported.
 
 ##Donate: http://michael.verhov.com/Project/full3dwallpaper
 
